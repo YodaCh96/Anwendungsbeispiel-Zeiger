@@ -1,14 +1,6 @@
 # Anwendungsbeispiel Zeiger
 
-Mit der vorliegenden Aufgabe soll durch einfache Mittel und geringen Programmieraufwand ein konkretes Anwendungsbeispiel für die Verwendung von Zeigern demonstriert werden.
-
-## Vorbereitung
-
 Erstellen Sie in Visual Studio ein neues Projekt für die Bearbeitung dieser Aufgabe. Schreiben Sie sämtlichen Code, welcher für die Bearbeitung dieser Aufgabe notwendig ist direkt in die main Funktion des neu erstellten Projekts.
-
-## Vorgehensweise
-
-Bearbeiten Sie diese Aufgabe alleine und möglichst selbständig, d.h. ohne Verwendung von Hilfsmitteln.
 
 ## Aufgabenstellung
 
