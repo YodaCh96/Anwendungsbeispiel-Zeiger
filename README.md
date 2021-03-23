@@ -14,7 +14,31 @@ For reading the user input and for the intermediate storage or output of the rel
 
 The screenshot below can be used as an aid and/or inspiration for working on this task.
 
-![Example](images/example.jpg)
+```none
+Table of contents
+********************
+
+-1- Chapter 1
+-2- Chapter 2
+-3- Chapter 3
+-4- Chapter 4
+-0- EXIT
+
+Input : 1
+
+You'll find chapter 1 on page 1
+
+Table of contents
+********************
+
+-1- Chapter 1
+-2- Chapter 2
+-3- Chapter 3
+-4- Chapter 4
+-0- EXIT
+
+Input :
+```
 
 ## Contributing
 
